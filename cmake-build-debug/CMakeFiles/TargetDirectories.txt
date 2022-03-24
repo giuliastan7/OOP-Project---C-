@@ -1,0 +1,3 @@
+C:/Users/giulia/CLionProjects/proiectOOP/cmake-build-debug/CMakeFiles/proiectOOP.dir
+C:/Users/giulia/CLionProjects/proiectOOP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/giulia/CLionProjects/proiectOOP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
